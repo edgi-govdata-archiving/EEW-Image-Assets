@@ -8,7 +8,7 @@ This repo exists to create public links for images, especially those that need t
 * Add a note to the `Organization of this repo` section below to explain the new folder
 
 ## Organization of this repo
-* No folders, no images yet!
+* Jupyter instructions: contains image assets for explanations of how Jupyter works, at the top of each Notebook
 
 ---
 
