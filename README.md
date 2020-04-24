@@ -9,6 +9,7 @@ This repo exists to create public links for images, especially those that need t
 
 ## Organization of this repo
 * Jupyter instructions: contains image assets for explanations of how Jupyter works, at the top of each Notebook
+* Organizational flowcharts: has images for how the event breakout rooms are organized
 
 ---
 
