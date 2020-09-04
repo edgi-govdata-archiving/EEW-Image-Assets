@@ -1,7 +1,7 @@
  [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
 # EEW Image Assets
-This repo exists to create public links for images, especially those that need to be referenced in Notebook markdown.
+This repo exists to enable public links to images, especially those that need to be referenced in Notebook markdown.
 
 ## How to contribute to this repo
 * Make or look for a folder for the image assets based on use
